@@ -1500,10 +1500,10 @@
   resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-6.3.3.tgz#ff21352ac9f72df6a53cc8ad9b862eb68918c1e9"
   integrity sha512-0f5eNWhylZQbiTddfVkIXKkugQadzZdonLw4ur58oK4X+gIHOZ42Xv94sepu8Di9UWKFXNc4zxuuTiWM22hGvw==
 
-"@bazel/buildozer@^6.0.0":
-  version "6.3.3"
-  resolved "https://registry.yarnpkg.com/@bazel/buildozer/-/buildozer-6.3.3.tgz#3d057b071272a3fdd43e8428dbb8b7a2039cfff7"
-  integrity sha512-XT1MrXySUrRzHqLghwoJGa/kcPTQOHqSGBV5ea9vWyqwWGZweHUSds0AeGhB6DuXDo4eZguUydTtNN/brENP3A==
+"@bazel/buildozer@^7.0.0":
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/@bazel/buildozer/-/buildozer-7.3.1.tgz#b1fd04098c64282ed7ed9719fcce2cc9ca707da5"
+  integrity sha512-R6gMspM6/fLjHIGg7/9NPwj4ARWVLLRwusib8/C8tM0Y4ipK6t01Gf4hZwJJDU+Ls2EkRVDY3AR+rkFVcLxfjA==
 
 "@bazel/concatjs@5.8.1":
   version "5.8.1"
@@ -1519,10 +1519,10 @@
   resolved "https://registry.yarnpkg.com/@bazel/esbuild/-/esbuild-5.8.1.tgz#74668d33bfb29652cbe8e2852aa8dca5e0839e73"
   integrity sha512-8k4LL8P3ivCnFeBOcjiFxL8U+M5VtEGuOyIqm2hfEiP8xDWsZLS7YQ7KhshKJy7Elh2dlK9oGgMtl0D/x9kxxg==
 
-"@bazel/ibazel@^0.16.2":
-  version "0.16.2"
-  resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.16.2.tgz#05dd7f06659759fda30f87b15534f1e42f1201bb"
-  integrity sha512-KgqAWMH0emL6f3xH6nqyTryoBMqlJ627LBIe9PT1PRRQPz2FtHib3FIHJPukp1slzF3hJYZvdiVwgPnHbaSOOA==
+"@bazel/ibazel@^0.25.0":
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.25.0.tgz#5431a4622ebc5c5bc48ea8b979f82f745a210d25"
+  integrity sha512-dtosfsuZCSaqlUe5EyxNdaN7Gow0Y+ZJixdlciytcSieUcB/1lXPFTx6OihxhjgtTHkeFovlQ/QbvArRPnk+nQ==
 
 "@bazel/jasmine@^5.4.1":
   version "5.8.1"
@@ -1541,6 +1541,11 @@
   version "5.8.1"
   resolved "https://registry.yarnpkg.com/@bazel/runfiles/-/runfiles-5.8.1.tgz#737d5b3dc9739767054820265cfe432a80564c82"
   integrity sha512-NDdfpdQ6rZlylgv++iMn5FkObC/QlBQvipinGLSOguTYpRywmieOyJ29XHvUilspwTFSILWpoE9CqMGkHXug1g==
+
+"@bazel/runfiles@6.3.0":
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/@bazel/runfiles/-/runfiles-6.3.0.tgz#4eced0d15cc1377d54d8d094c63631ab0b9f961a"
+  integrity sha512-2Q+KC0ys+BLIBp6zsI8E6htEw1/R1cjA1Yt+3JiqdEB597aGpZKiJJP6FeJSA4LIAWlH/FDVDtgvJ77eeLNyiA==
 
 "@bazel/terser@5.8.1":
   version "5.8.1"

@@ -196,10 +196,10 @@ cldr_xml_data_repository(
 # sass rules
 http_archive(
     name = "io_bazel_rules_sass",
-    sha256 = "7a90567717c3417a23ff4b21963a698a6e9aa669ac9e682121ea33f218a2816a",
-    strip_prefix = "rules_sass-425ecafa8268bc013d684216363fe75bc802323e",
+    sha256 = "02116bcc66fd5c3e89e1b85cec6cdc05014ad02c308a4871727d997b9419f475",
+    strip_prefix = "rules_sass-7bceee9f60c92599c8293b44cd9dccc67ba93f12",
     urls = [
-        "https://github.com/bazelbuild/rules_sass/archive/425ecafa8268bc013d684216363fe75bc802323e.zip",
+        "https://github.com/bazelbuild/rules_sass/archive/7bceee9f60c92599c8293b44cd9dccc67ba93f12.zip",
     ],
 )
 
